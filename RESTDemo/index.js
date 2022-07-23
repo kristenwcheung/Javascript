@@ -97,3 +97,5 @@ app.listen(3000, () => {
 // GET / comments/:id - Get one comment (using ID)
 // PATCH / comments/:id - Update one comment
 // DELETE / comments/:id - Destroy one comment
+
+//NEW & EDIT -- need to create a form first
